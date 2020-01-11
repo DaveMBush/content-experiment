@@ -1,0 +1,9 @@
+{
+  "home": {
+    "page": "/index.md",
+    "children": [
+      "main page 1": {"page": "/index.md"},
+      "main page 2": {"page": "/index.md"},
+    ]
+  },
+}
