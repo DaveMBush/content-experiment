@@ -8,7 +8,7 @@
      "title": "main page 1", 
      "page": "/index.md"
    },  {
-     "icon": "cake"
+     "icon": "cake",
      "title": "main page 2", 
      "page": "/index.md"
    }
