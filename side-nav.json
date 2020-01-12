@@ -1,11 +1,14 @@
 {
-  "title": "home",
+  "icon":"home",
+  "title": "Documentation Site",
   "page": "/index.md",
   "children": [
    {
+     "icon":"link",
      "title": "main page 1", 
      "page": "/index.md"
    },  {
+     "icon": "cake"
      "title": "main page 2", 
      "page": "/index.md"
    }
